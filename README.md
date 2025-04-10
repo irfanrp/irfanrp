@@ -14,7 +14,7 @@
 <!-- Tambahkan lainnya sesuai stack kamu -->
 
 ## 📈 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanrp&show_icons=true&theme=github_dark)
 
 ## 🧠 Top Skills
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
