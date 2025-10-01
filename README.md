@@ -4,7 +4,7 @@
 - 🔭 Currently working on: Cloud & DevOps Projects
 - 🌱 Learning: Kubernetes, Terraform, and CI/CD
 - 💬 Ask me about: DevOps, Kubernetes, Docker, and AWS
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/irfanrp) | [Email](mailto:irfan@example.com)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/irfanrp) | [Email](mailto:ipratama209@gmail.com)
 - 🎸 Fun fact: I love music & gaming in my free time
 
 ---
