@@ -1,20 +1,30 @@
 # 👋 Hi, I'm Irfan Rizkianto Pratama
 
 ## 💼 About Me
-- 🔭 I’m currently working on: [Project Name]
-- 🌱 I’m currently learning: [Technology/Tool]
-- 💬 Ask me about: [Topics you're confident in]
-- 📫 How to reach me: [email / LinkedIn]
-- 🧠 Fun fact: [Cool personal detail or hobby]
+- 🔭 Currently working on: Cloud & DevOps Projects
+- 🌱 Learning: Kubernetes, Terraform, and CI/CD
+- 💬 Ask me about: DevOps, Kubernetes, Docker, and AWS
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/irfanrp) | [Email](mailto:irfan@example.com)
+- 🎸 Fun fact: I love music & gaming in my free time
+
+---
 
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-<!-- Tambahkan lainnya sesuai stack kamu -->
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
 
 ## 📈 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanrp&show_icons=true&theme=github_dark)
+![irfanrp's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanrp&show_icons=true&theme=github_dark)
 
-## 🧠 Top Skills
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanrp&layout=compact)](https://github.com/yourusername)
+## 🔝 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanrp&layout=compact&theme=github_dark)
+
+---
+
+## 🌐 My Portfolio Website
+👉 Check out my portfolio here: [https://irfanrp.github.io](https://irfanrp.github.io)
